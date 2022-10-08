@@ -1,2 +1,2 @@
-# rocket-league-blog
+# RLCS-blog
 Mark posts RLCS thoughts, clips
