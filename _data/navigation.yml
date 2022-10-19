@@ -1,0 +1,6 @@
+- name: RLCS Blog
+  link: /
+- name: About
+  link: /about.html
+- name: Events
+  link: /event-blogs.html

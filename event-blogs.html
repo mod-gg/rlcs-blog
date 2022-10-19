@@ -1,0 +1,15 @@
+---
+layout: default
+title: Event Blogs
+---
+<h1>{{ post.title }}</h1>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.path contains "/event-blog/" %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

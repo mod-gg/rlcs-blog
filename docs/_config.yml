@@ -1,6 +1,0 @@
-theme: jekyll-theme-minimal
-title: RLCS Blog
-description: mod blogs
-url: "mod-gg.github.io/rlcs-blog" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap

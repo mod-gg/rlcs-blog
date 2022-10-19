@@ -1,2 +1,2 @@
 # RLCS-blog
-Mark posts RLCS thoughts, clips
+Mark posts RLCS thoughts, clips, analyses
