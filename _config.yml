@@ -23,7 +23,7 @@ email: mark.m.odonnell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rocket League Championship Series blogs on events & analyses using data science, python, and stream of consciousness blogging
 baseurl: "/rlcs-blog" # the subpath of your site, e.g. /blog
-url: "https://mod-gg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mod-gg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mod-gg
 
 defaults:
