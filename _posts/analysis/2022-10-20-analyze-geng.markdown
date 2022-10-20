@@ -27,3 +27,5 @@ This resulted in a pretty impotent Gen.G offense. Because they weren't able to s
 ![Gen.G Assists Per Goal]({{site.url}}/{{site.baseurl}}/assets/images/2022-10-20-analyze-geng/Gen.G Assists Per Goal.png)
 
 If teams can recognize Gen.G's tendency to own the boost game and force them to stretch into less comfortable situations, we could see Gen.G struggle a bit more in this second Regional. Gen.G had a wonderful start in their first North American main event, but without a better low-boost offense or new ways to balance their own boost usage, teams that scout them well could knock the European transplants down a peg.
+
+See my workflow on my [GitHub](https://github.com/mod-gg/rl/blob/main/rl/geng-faze-fall-open.py)
