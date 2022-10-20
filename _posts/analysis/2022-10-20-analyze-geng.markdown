@@ -5,7 +5,7 @@ date:   2022-10-20 10:00 -0400
 categories: analysis Gen.G Faze NA Fall Open
 ---
 
-Gen.G cruised their way through the North American Fall Open, except when they played FaZe Clan. What was different about their games against Faze?
+Gen.G cruised their way through the North American Fall Open, except when they played FaZe Clan. What was different about their matchup against Faze?
 
 When ApparentlyJack and Noly made the jump from EU to NA there was natural interest in how two players who had been around the top of the EU ladder would fare jumping to a new region. When they added Chronic, a 1s main from the bubble scene, and got picked up by Gen.G, there was greater interest _and_ greater confusion. Gen.G mostly ended up cruising in their first tournament, making a surprise run to the grand finals and only losing two series along the way. Both of those losses were to FaZe Clan though, one in their very first match of Swiss, and one in the Grand Finals. FaZe played Gen.G differently than every other team Gen.G had to face, and even made some key adjustments from their first series to their last.
 
