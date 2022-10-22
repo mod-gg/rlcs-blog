@@ -26,6 +26,9 @@ baseurl: "/rlcs-blog" # the subpath of your site, e.g. /blog
 url: "https://mod-gg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mod-gg
 
+# Google Analytics
+google_analytics: G-0T36XPDW8D
+
 defaults:
   -
     scope:
