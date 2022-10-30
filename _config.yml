@@ -26,22 +26,15 @@ baseurl: "/rlcs-blog" # the subpath of your site, e.g. /blog
 url: "https://mod-gg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mod-gg
 
-# Google Analytics
-google_analytics: G-0T36XPDW8D
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# # Google Analytics
+google_analytics: G-0T36XPDW8D
 
 # Exclude from processing.
 # The following items will not be processed, by default.
