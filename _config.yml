@@ -35,6 +35,7 @@ plugins:
 
 # # Google Analytics
 google_analytics: G-0T36XPDW8D
+google_tag_manager: GTM-5RF9929
 
 # Exclude from processing.
 # The following items will not be processed, by default.
