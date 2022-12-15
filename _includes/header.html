@@ -1,7 +1,7 @@
 <header class="site-header">
 
     <div class="wrapper">
-      {%- if jekyll.environment == 'production' and site.google_tag_manager -%}
+      {%- if site.google_tag_manager -%}
         {%- include google-tag-manager-body.html -%}
       {%- endif -%}
       {%- assign default_paths = site.pages | map: "path" -%}
