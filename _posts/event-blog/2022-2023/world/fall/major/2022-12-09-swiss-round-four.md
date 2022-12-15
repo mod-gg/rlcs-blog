@@ -91,4 +91,4 @@ sypical misses a free double wide left, mist misses the rebound wide left. first
 jamesbot rhyming as appjack makes faze pay for their lack of shooting
 <iframe src="https://clips.twitch.tv/embed?clip=NaivePeppyBeePeoplesChamp-p_iTSpsXaUKrbBtT&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
-gen.g have now swept faze in back-to-back series, seven games on the trot for them. wild
+gen.g have now swept faze in back-to-back series, seven games on the trot in this matchup. oxygen beat em clean, but otherwise gen.g went 9-1 in swiss against faze/falcons/pwr, pretty good pretty good
