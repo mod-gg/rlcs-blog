@@ -96,7 +96,7 @@ gen.g have now swept faze in back-to-back series, seven games on the trot in thi
 --
 
 crowd is here! they split swiss round four over two days so they could get the crowd in for every elimination match (except the 0-3s, sorry james cheese & kansas city pioneers). it looks pretty packed in there!
-<iframe src="https://clips.twitch.tv/embed?clip=EncouragingPeacefulCougarResidentSleeper-CED8DzWsY7GMCPnc&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=EncouragingPeacefulCougarResidentSleeper-CED8DzWsY7GMCPnc&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 # 1-2: The Club - Spacestation
@@ -108,29 +108,29 @@ the desk picks 4-1 for the club, which i find at least interesting. lj hasn't be
 ssg nails a kickoff goal, and we're off!
 
 arsenal catches em napping and he's getting loud early
-<iframe src="https://clips.twitch.tv/embed?clip=ThirstyCovertDonkeyWholeWheat-hoxQCkFAaL3EIY--&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ThirstyCovertDonkeyWholeWheat-hoxQCkFAaL3EIY--&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 0-1
 
 uh, club?
-<iframe src="https://clips.twitch.tv/embed?clip=EphemeralPopularOryx4Head-cpS1NTpL41nok3UP&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=EphemeralPopularOryx4Head-cpS1NTpL41nok3UP&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 lostt still hasn't totally awoken, but this is a start
-<iframe src="https://clips.twitch.tv/embed?clip=FitDoubtfulMetalSpicyBoy-HdpjYYP_KJ8NcIYy&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=FitDoubtfulMetalSpicyBoy-HdpjYYP_KJ8NcIYy&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 lostt misses a double, daniel misses a double, but only one is allowed to punish the other's mistake
-<iframe src="https://clips.twitch.tv/embed?clip=HealthyDullScallionPJSugar-Fn6jzWV1RE0H86Jq&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HealthyDullScallionPJSugar-Fn6jzWV1RE0H86Jq&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 1-1
 
 _insane_ pre-jump
-<iframe src="https://clips.twitch.tv/embed?clip=DeterminedSpoopyDiscSoonerLater-IYq072wEFF8Fr1uq&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=DeterminedSpoopyDiscSoonerLater-IYq072wEFF8Fr1uq&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 daniel has a galaxy brain
-<iframe src="https://clips.twitch.tv/embed?clip=AmazingSpeedyCocoaPhilosoraptor-3xhUpQq4wAGMihxd&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=AmazingSpeedyCocoaPhilosoraptor-3xhUpQq4wAGMihxd&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 clips by daniel
-<iframe src="https://clips.twitch.tv/embed?clip=UnusualSlickWombatJonCarnage-qJ9THL_RI_KcvjEo&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=UnusualSlickWombatJonCarnage-qJ9THL_RI_KcvjEo&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 1-2
 
@@ -151,22 +151,22 @@ quadrant at least put on some pressure and get a late goal, but it's too late an
 ##### 1-0
 
 some great plays before the goal, the goal is nearly anticlimactic, but quadrant will take it
-<iframe src="https://clips.twitch.tv/embed?clip=CuriousShyDoveOSsloth-6xOa9HTgZW_eODO5&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CuriousShyDoveOSsloth-6xOa9HTgZW_eODO5&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 1-1
 
 oh what a save from eekso
-<iframe src="https://clips.twitch.tv/embed?clip=CrispyEndearingCocoaPastaThat-t393Ok-_NHga2qky&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CrispyEndearingCocoaPastaThat-t393Ok-_NHga2qky&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 cooked 'em
-<iframe src="https://clips.twitch.tv/embed?clip=ShinyBloodyWerewolfWoofer-f8vIudjsXk0dWC1o&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ShinyBloodyWerewolfWoofer-f8vIudjsXk0dWC1o&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 2-1
 
 quadrant haven't had much offense so far, only a few shots 
 
 OSKI
-<iframe src="https://clips.twitch.tv/embed?clip=CorrectPatientAniseSquadGoals-pXMocoMMiiNYE72X&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CorrectPatientAniseSquadGoals-pXMocoMMiiNYE72X&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 wave misses a sitter set up by the cannon, and lando norris's boys can't keep up with liquid. goodnight quadrant, see you next split
 
@@ -177,27 +177,27 @@ wooooooof for both of these squads. it's gonna be tough looking back and seeing 
 ##### 0-0
 
 ahmad lit up g2 when sandrock rocked g2 last fall, and he opens it up again
-<iframe src="https://clips.twitch.tv/embed?clip=TiredSplendidGooseDAESuppy-SHAvwxTKzc5RtLK8&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=TiredSplendidGooseDAESuppy-SHAvwxTKzc5RtLK8&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 can't remember the last time chicago earned a clip, but he helps put g2 in front with a sick redirect
-<iframe src="https://clips.twitch.tv/embed?clip=ChillyElegantLouseAMPTropPunch-UL_fNhehL-jVPVNr&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ChillyElegantLouseAMPTropPunch-UL_fNhehL-jVPVNr&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 0-1
 
 demos left and right (6 from g2, 4 by ahmad alone) lead to a frantic finish
-<iframe src="https://clips.twitch.tv/embed?clip=AnnoyingFancyTapirRitzMitz--GDtVygQFUC9JoD4&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=AnnoyingFancyTapirRitzMitz--GDtVygQFUC9JoD4&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 0-2
 
 chicago hits a kickoff goal, and falcons are on the ropes
 
 it's early, but this is probably it. falcons look slow, jknaps looks _fast_
-<iframe src="https://clips.twitch.tv/embed?clip=BusyCarefulRingLeeroyJenkins-dMcFehZaW-dGrBkM&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=BusyCarefulRingLeeroyJenkins-dMcFehZaW-dGrBkM&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 trk at least scores a nice one
-<iframe src="https://clips.twitch.tv/embed?clip=WonderfulCooperativeLapwingTakeNRG-UrxOYxmapL67nmkv&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=WonderfulCooperativeLapwingTakeNRG-UrxOYxmapL67nmkv&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 unreal pinch goal, and the comeback is on
-<iframe src="https://clips.twitch.tv/embed?clip=TrustworthyDignifiedLatteWholeWheat-y92J2AvjqcRJE2wC&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=TrustworthyDignifiedLatteWholeWheat-y92J2AvjqcRJE2wC&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 in the end it's too many giveaways from okhalid. falcons at their best were fast, played into space, and surprised their opponents with their speed. this tournament they had none of that, and neither trk nor ahmad were able to make up the difference with solo plays. a real shocker for falcons, this made it look like they were past their prime. a _real_ shame nwpo got himself suspended for a year for playing on someone else's account, rule one would be so fun to watch if they could push past falcons but i don't think they're good enough without him.
