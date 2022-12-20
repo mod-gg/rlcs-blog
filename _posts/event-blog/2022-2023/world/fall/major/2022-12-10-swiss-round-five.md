@@ -2,6 +2,7 @@
 layout: post
 title:  "Fall Major: Swiss Round Five"
 categories: swiss
+date: "2022-12-10 12:00:00"
 ---
 
 # 2-2: Liquid - PWR
@@ -101,7 +102,8 @@ g2 get three goals in a minute, and this series will probably be even
 
 ##### 1-1
 
-lol <iframe src="https://clips.twitch.tv/embed?clip=WealthyMoldyWombatSoonerLater-3FZApoLNkaEwx3HX&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+lol 
+<iframe src="https://clips.twitch.tv/embed?clip=WealthyMoldyWombatSoonerLater-3FZApoLNkaEwx3HX&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 that might be the goal of swiss
 <iframe src="https://clips.twitch.tv/embed?clip=JollyPunchyHawkThunBeast-2ltIYhmMg49NJtTY&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
