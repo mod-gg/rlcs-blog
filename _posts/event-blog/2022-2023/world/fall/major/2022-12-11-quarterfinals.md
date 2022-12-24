@@ -61,7 +61,7 @@ that's about as good an open netter as you'll see
 we've got a game seven, seems pretty deserved. i don't think gen.g have peaked in this series, but they've ground out enough to be in with a shot
 
 absolute filth from apparentlyjack and he knows it
-<iframe src="https://clips.twitch.tv/embed?clip=AliveHedonisticClintmullinsDoubleRainbow-YBIQsVzvV-jE8hnU&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=AliveHedonisticClintmullinsDoubleRainbow-YBIQsVzvV-jE8hnU&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 that's all it took. gen.g took the wind out of liquid and didn't trail after game five. blocked 'em, bumped 'em, hassled 'em on every touch. liquid just couldn't create advantageous field dynamics 
 
@@ -74,25 +74,25 @@ this is the matchup where i have the least expectation that the winner will adva
 secret start out with 90 seconds of pure pressure, forcing v1 into 5 saves but never breaking through, even with the ball 80% over the line at one point
 
 let's gooo
-<iframe src="https://clips.twitch.tv/embed?clip=YawningDarlingMuleDeIlluminati-Voaa9z1fWCpEfRRr&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=YawningDarlingMuleDeIlluminati-Voaa9z1fWCpEfRRr&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 0-1
 
 it's a slog of a series, but secret break through twice in short order, and now v1 have to take the timeout
-<iframe src="https://clips.twitch.tv/embed?clip=CheerfulOnerousOrcaSoBayed-oAjNJor7TSl7_nNW&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CheerfulOnerousOrcaSoBayed-oAjNJor7TSl7_nNW&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 0-2
 
 comm on the receiving end of some trash for this one
-<iframe src="https://clips.twitch.tv/embed?clip=SourOnerousAlligatorTooSpicy-eS6cfkNCetZp35nz&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SourOnerousAlligatorTooSpicy-eS6cfkNCetZp35nz&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 a ridiculous layoff
-<iframe src="https://clips.twitch.tv/embed?clip=GrotesqueCloudyPeachRickroll-ZnSVVKb2WYQzK4HE&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=GrotesqueCloudyPeachRickroll-ZnSVVKb2WYQzK4HE&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 v1 score three of the four goals in regulation, and there are two good shots each way on zero seconds, but we go to overtime at 2-2
 
 maaaaan v1 were starving secret for basically seven straight minutes
-<iframe src="https://clips.twitch.tv/embed?clip=ProductiveWonderfulAnacondaWOOP-yAnzUV5kuTJrFBsH&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ProductiveWonderfulAnacondaWOOP-yAnzUV5kuTJrFBsH&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 fourth longest rlcs lan overtime as torment sets the lan game record
 
@@ -105,7 +105,7 @@ i dunno man, secret just keep winning 1-0 games. this time v1 create two great l
 kv1 has a disconnect right at the start of the game, so we get a functional second timeout
 
 survive and advance!
-<iframe src="https://clips.twitch.tv/embed?clip=ImportantFaithfulFerretBuddhaBar-IDi6wADAkGYt6w_1&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ImportantFaithfulFerretBuddhaBar-IDi6wADAkGYt6w_1&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 # Oxygen - Faze
 
@@ -122,7 +122,7 @@ kickoff goal for archie. kickoff goal for archie. faze are down two goals in eig
 it takes a whole 23 seconds for oxygen to find a third, and they get to complete a _wide open_ midfield pass for what becomes basically a penalty kick
 
 a well earned and fun goal
-<iframe src="https://clips.twitch.tv/embed?clip=JollyAthleticPeachItsBoshyTime-ZUcs2bR6WMMBBBv_&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=JollyAthleticPeachItsBoshyTime-ZUcs2bR6WMMBBBv_&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 2-0
 
@@ -131,7 +131,7 @@ faze can't find the goal with a map until a deflection and an open net with unde
 ##### 2-1
 
 blink and you miss a four goal lead
-<iframe src="https://clips.twitch.tv/embed?clip=CalmAmazingPangolinWOOP-J-xJOE-JsTDBoGZk&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CalmAmazingPangolinWOOP-J-xJOE-JsTDBoGZk&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 maybe oxygen only had two good games in them, cause they look discombobulated
 
@@ -142,15 +142,15 @@ oxygen go up 3-0 just as easy as faze did, though not quite as quickly. boring w
 ##### 3-2
 
 oxygen couldn't combine pressure and boost control well, and faze force seven
-<iframe src="https://clips.twitch.tv/embed?clip=HyperLazyTeaSmoocherZ-Dg1BveIp2yHdZCEk&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HyperLazyTeaSmoocherZ-Dg1BveIp2yHdZCEk&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ##### 3-3
 
 that's _rude_
-<iframe src="https://clips.twitch.tv/embed?clip=FunSmilingGerbilWoofer-hlvGsaP429tDfTTU&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=FunSmilingGerbilWoofer-hlvGsaP429tDfTTU&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 mist won this game
-<iframe src="https://clips.twitch.tv/embed?clip=DoubtfulSingleJaguarAsianGlow-9l-xIBz3iPGlSTQE&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=DoubtfulSingleJaguarAsianGlow-9l-xIBz3iPGlSTQE&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 oxygen beat g2, gen.g, and version1, but go home in the quarterfinals playing yet another na team (i have a hunch they would've beaten ssg too). faze still on their way to their usual top 4, though it's been unsteady to get here
 
@@ -161,16 +161,16 @@ oxygen beat g2, gen.g, and version1, but go home in the quarterfinals playing ye
 ##### 0-0
 
 aztral pops for the first minute, but an air dribble bump opens the scoring the other way
-<iframe src="https://clips.twitch.tv/embed?clip=NurturingHealthyRatOptimizePrime-qQWju908vwfsdLG5&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=NurturingHealthyRatOptimizePrime-qQWju908vwfsdLG5&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 and another aerial challenge goal
-<iframe src="https://clips.twitch.tv/embed?clip=HilariousChillyPotatoAMPEnergy-GknKhV0NdFBiDnui&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HilariousChillyPotatoAMPEnergy-GknKhV0NdFBiDnui&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 yeah, aztral is popping
-<iframe src="https://clips.twitch.tv/embed?clip=QuaintIncredulousHabaneroGingerPower-I2Uee_mcCS8WvklS&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=QuaintIncredulousHabaneroGingerPower-I2Uee_mcCS8WvklS&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 this is a great game
-<iframe src="https://clips.twitch.tv/embed?clip=AntsyBitterPineappleDatSheffy-eLDtvoKa6zqtKRzf&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=AntsyBitterPineappleDatSheffy-eLDtvoKa6zqtKRzf&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 only kc's second _game_ loss of the tournament
 
@@ -181,24 +181,24 @@ moist score early and ride it out with dominant possession and physical play. ne
 ##### 0-2
 
 aztral with the shush
-<iframe src="https://clips.twitch.tv/embed?clip=SullenExuberantShingleBabyRage-beHx7BZEUkkqUr7t&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SullenExuberantShingleBabyRage-beHx7BZEUkkqUr7t&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ARE YOU KIDDING ME
-<iframe src="https://clips.twitch.tv/embed?clip=AcceptableConfidentSrirachaTinyFace-dsE8Axem6OnWcH06&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=AcceptableConfidentSrirachaTinyFace-dsE8Axem6OnWcH06&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 kc win despite _that_ with a brace from vatira, we're in a series for sure
 
 ##### 1-2
 
 aztral keeps scoring
-<iframe src="https://clips.twitch.tv/embed?clip=BusyNimbleQueleaSuperVinlin-f73s11zBFV6tmaFu&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=BusyNimbleQueleaSuperVinlin-f73s11zBFV6tmaFu&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 vati nails it
-<iframe src="https://clips.twitch.tv/embed?clip=CulturedRefinedDeerRuleFive-KrNkoeMLyY93ToMk&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CulturedRefinedDeerRuleFive-KrNkoeMLyY93ToMk&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 moist close the game out, and it's aztral ruining karmine corp on both ends. not really sure what kc can do from here
 
 ##### 1-3
 
 joyo with the reset pass, and kc are out!
-<iframe src="https://clips.twitch.tv/embed?clip=BillowingGrossPeppermintTTours-SkjjPNnvNdU_WB_2&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=BillowingGrossPeppermintTTours-SkjjPNnvNdU_WB_2&parent=mod-gg.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
