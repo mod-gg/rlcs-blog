@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "European Winter Open: Quarterfinals"
-categories: quarterfinals playoffs
+tags: quarterfinals playoffs
 ---
 # Liquid - German Amigos
 

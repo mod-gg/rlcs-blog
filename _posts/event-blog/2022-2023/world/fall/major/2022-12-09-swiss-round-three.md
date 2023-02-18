@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Swiss Round Three"
-categories: swiss
+tags: swiss
 ---
 
 # 1-1: The Club - PWR

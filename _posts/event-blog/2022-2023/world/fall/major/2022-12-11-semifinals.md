@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Semifinals"
-categories: semifinals
+tags: semifinals
 date: "2022-12-11 12:00:00"
 ---
 

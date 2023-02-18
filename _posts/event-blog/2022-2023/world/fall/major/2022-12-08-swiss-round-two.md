@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Swiss Round Two"
-categories: swiss
+tags: swiss
 ---
 
 # 0-1: Falcons - James Cheese

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Swiss Round Four"
-categories: swiss
+tags: swiss
 ---
 
 # 2-1: Version1 - PWR

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Swiss Round One"
-categories: swiss
+tags: swiss
 ---
 # Pre-Tournament News
 

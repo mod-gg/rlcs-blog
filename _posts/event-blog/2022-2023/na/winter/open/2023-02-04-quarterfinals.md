@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "North American Winter Open: Quarterfinals"
-categories: quarterfinals
+tags: quarterfinals
 ---
 # NRG - G2
 the 63rd matchup between these teams in rlcs sees g2 as a heavy favorite, but you always throw out the records in these old rivalry matches

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Swiss Round Five"
-categories: swiss
+tags: swiss
 date: "2022-12-10 12:00:00"
 ---
 

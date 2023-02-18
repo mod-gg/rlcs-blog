@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall Major: Quarterfinals"
-categories: quarterfinals
+tags: quarterfinals
 ---
 
 the whole bracket is happening in one day, so whoever wins is going to have won three best-of-sevens, which is a loooooong day
