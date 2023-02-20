@@ -2,7 +2,7 @@
 layout: post
 title:  "Gen.G - Faze Clan: RLCS NA Fall Open Analysis"
 date:   2022-10-20 10:00 -0400
-categories: analysis Gen.G Faze NA Fall Open
+tags: analysis Gen.G Faze NA Fall Open
 ---
 
 Gen.G cruised their way through the North American Fall Open, except when they played Faze Clan. What was different about their matchup against Faze?
