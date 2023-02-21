@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "European Winter Cup: Quarterfinals"
-tags: Group
+tags: quarterfinals
 ---
 # News
 - 
