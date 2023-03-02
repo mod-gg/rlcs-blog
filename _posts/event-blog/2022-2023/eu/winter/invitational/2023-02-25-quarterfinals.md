@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "European Winter Cup: Quarterfinals"
-tags: quarterfinals eu europe winter cup
+title:  "European Winter Invitational: Quarterfinals"
+tags: quarterfinals eu europe winter invitational
 ---
 
 # Liquid - Quadrant
