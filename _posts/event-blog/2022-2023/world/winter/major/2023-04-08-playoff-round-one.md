@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Winter Major: Playoff Round One"
-tags: group
+tags: playoff
 date: "2023-04-08 12:00:00"
 ---
 
